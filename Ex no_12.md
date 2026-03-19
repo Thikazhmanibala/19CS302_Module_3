@@ -38,7 +38,8 @@ int main()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/f3c43cb6-0ff8-4b0b-8631-c18d47eb5d09)
+<img width="773" height="170" alt="image" src="https://github.com/user-attachments/assets/57c8d7ce-1c26-45a9-84ff-536870e34dd1" />
+
 
 
 ## Result:
