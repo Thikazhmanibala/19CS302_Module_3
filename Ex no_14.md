@@ -14,8 +14,8 @@ To write a C program to delete first element in an array.
 ```
 /*
 Program to delete first element in an array.
-Developed by: Mariam Sherin
-RegisterNumber: 212222060143
+Developed by: Thikazhmanibala.K
+RegisterNumber: 212222060277
 #include <stdio.h>
 
 int main() {
@@ -53,7 +53,8 @@ int main() {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/62f1f80e-9640-4862-9e7b-60075b43b3b0)
+<img width="825" height="203" alt="image" src="https://github.com/user-attachments/assets/394669fa-47d4-45c0-8608-b3aa0d531d48" />
+
 
 
 ## Result:
