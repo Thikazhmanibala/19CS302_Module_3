@@ -47,7 +47,8 @@ int convert(long long n) {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/d4ae27bc-22c9-445c-873a-372e3a311267)
+<img width="756" height="235" alt="image" src="https://github.com/user-attachments/assets/ff2ba5af-2fa9-4f22-a19d-0d9766848bea" />
+
 
 
 ## Result:
